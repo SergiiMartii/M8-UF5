@@ -185,6 +185,11 @@ public class CAplicacio {
                     }
                     break;
                 case 8:
+                    System.out.println("-----Ingressar a un altre compte bancari-----");
+                    
+                    
+                    break;
+                case 9:
                     System.out.println("-----Sortint del programa-----\n");
                     break;
 
@@ -208,7 +213,8 @@ public class CAplicacio {
         System.out.println("5. Ingressar");
         System.out.println("6. Extreure");
         System.out.println("7. Modificar numero secret");
-        System.out.println("8. Sortir");
+        System.out.println("8. Ingressar a un altre compte");
+        System.out.println("9. Sortir");
         System.out.println("//////////////////////////");
     }
 
