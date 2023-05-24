@@ -117,5 +117,9 @@ public class CCompteBancari {
         return "CCompteBancari{" + "numero=" + numero + ", propietari=" + propietari + ", saldo=" + saldo + '}';
     }
     
+    public String salu2() {
+        return "salu2";
+    }
+    
     
 }
